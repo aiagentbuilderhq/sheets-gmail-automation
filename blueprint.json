@@ -1,0 +1,9 @@
+{
+  "name": "Sheets \u2192 Gmail Alerts \u2014 Make.com + n8n",
+  "description": "New row in Google Sheets triggers Gmail alert via Sheets API + Gmail API",
+  "modules": [
+    "Google Sheets: Watch New Rows (Sheets API)",
+    "Gmail: Send an Email (Gmail API)"
+  ],
+  "note": "Replace YOUR_API_KEY, YOUR_CONNECTION_ID with your own. Never commit real keys."
+}
